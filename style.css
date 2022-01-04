@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.full-website{
+    text-align: center;
+    color: rgb(60, 8, 248);
+    width: 1000px;
+    margin: 30px auto;
+    box-shadow: 1px 1px 6px maroon;
+}
+.menu{
+    background: #3498db;
+    padding:50px;
+    
+}
+.razib{
+    display: inline-block;
+}
+.container{
+    background: #16a085;
+    padding: 80px;
+}
+.footer{
+    background: #9b59b6;
+    padding: 50px;
+}
+.footer-buttom{
+    background: #7f8c8d;
+    padding: 20px;
+}
+img{
+    max-width: 100%;
+    margin-bottom: -5px;
+}
+.op{
+    padding: 30px 0;
+}
+.opx{
+    padding: 60px 0;
+}
